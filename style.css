@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    justify-items: center;
+}
+
+p {
+    margin: 0;
+    font-size: 30px;
+    text-shadow: 1px 1px black;
+}
